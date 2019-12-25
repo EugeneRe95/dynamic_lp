@@ -1,2 +1,2 @@
-Analogue to Mozilla extension "Momentum"
+Analogue to Mozilla extension "Momentum" <br/>
 Technologies: HTML, CSS, Javascript
